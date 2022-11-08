@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world 👋, I'm Pedro Antônio! </h1>
+<h1 align="center"> Hello world !!!, I'm Pedro Antônio! </h1>
 <h3 align="center">A Computer Scientist in the making!</h3>
 
 <br>
@@ -16,12 +16,12 @@
 
 <h2 align="left"> 💽 Current skills: </h2>
 <ul>
-    <li> 🐍 Data Science with Python (fluent) </li>
-    <li> 📁 Django Rest Framework (fluent) </li>
-    <li> 📂 Flask Rest Framework (fluent) </li>
-    <li> 📑 HTML and CSS (fluent) </li>
-    <li> ⭐ JavaScript and jQuery (intermediate) </li>
-    <li> ⚗️ SQLAlchemy (advanced) </li>
+    <li> - Data Science with Python (fluent) </li>
+    <li> - Django Framework (fluent) </li>
+    <li> - Flask Rest Framework (fluent) </li>
+    <li> - HTML and CSS (fluent) </li>
+    <li> - JavaScript and jQuery (intermediate) </li>
+    <li> - SQLAlchemy (advanced) </li>
 </ul>
 
 <br>
