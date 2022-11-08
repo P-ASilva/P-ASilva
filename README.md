@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world !!!, I'm Pedro Antônio! </h1>
+<h1 align="center"> Hello world !!! I'm Pedro Antônio! </h1>
 <h3 align="center">A Computer Scientist in the making!</h3>
 
 <br>
