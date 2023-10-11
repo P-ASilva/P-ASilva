@@ -1,5 +1,5 @@
-<h1 align="center"> Hello world !!! I'm Pedro Antônio! </h1>
-<h3 align="center">A Computer Scientist in the making!</h3>
+<h1 align="center"> Hello world, I'm Pedro Antônio! </h1>
+<h3 align="center">A Computer Scientist in the making</h3>
 
 <br>
 
@@ -8,24 +8,13 @@
 </h2>
 
 - I'm a 19 year old from **Brazil**.
-- **Fourth Semester** undergraduate **Computer Science** student @[Insper](https://insper.edu.br).
+- **Fourth Semester** undergraduate **Computer Science** student at [Insper](https://insper.edu.br).
 - 📫 How to reach me: [email](mailto:pedroas5@al.insper.edu.br) - [LinkedIn](https://www.linkedin.com/in/pedro-antonio-silva-23395b249/)
 - 💻 Full Stack Development using Django, Flask, Spring and Next
 <br>
 
+<h2 align="left">Coding Knowledge:</h2>
 
-<h2 align="left"> 💽 Current skills: </h2>
-<ul>
-    <li> - Data Science with Python </li>
-    <li> - Django Framework  </li>
-    <li> - Flask Rest Framework </li>
-    <li> - Next Framework </li>
-    <li> - JavaScript and TypeScript (intermediate) </li>
-    <li> - HTML and CSS (fluent) </li>
-    <li> - SQLAlchemy (advanced) </li>
-</ul>
-
-Coding knowlege:
 <ul>
 <li>FrameWorks</li>
   
@@ -45,7 +34,7 @@ Coding knowlege:
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=TypeScript&logoColor=white)
-</ul>
+
 
 <li>Databases</li>
 
@@ -53,9 +42,8 @@ Coding knowlege:
 ![PostGres Badge](https://img.shields.io/badge/postgresqlz-orange?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Fauna Badge](https://img.shields.io/badge/fauna-turquoise?style=for-the-badge&logo=fauna&logoColor=white)
 
+</ul>
 <br>
-
-
 <br>
 
 <h2 align="left">
