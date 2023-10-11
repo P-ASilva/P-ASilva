@@ -8,19 +8,20 @@
 </h2>
 
 - I'm a 19 year old from **Brazil**.
-- **Second Semester** undergraduate **Computer Science** student @[Insper](https://insper.edu.br).
+- **Fourth Semester** undergraduate **Computer Science** student @[Insper](https://insper.edu.br).
 - 📫 How to reach me: [email](mailto:pedroas5@al.insper.edu.br) - [LinkedIn](https://www.linkedin.com/in/pedro-antonio-silva-23395b249/)
-- 💻 Full Stack Development using Django, Flask, jQuery, and MySQL
+- 💻 Full Stack Development using Django, Flask, Spring and Next
 <br>
 
 
 <h2 align="left"> 💽 Current skills: </h2>
 <ul>
-    <li> - Data Science with Python (fluent) </li>
-    <li> - Django Framework (fluent) </li>
-    <li> - Flask Rest Framework (fluent) </li>
+    <li> - Data Science with Python </li>
+    <li> - Django Framework  </li>
+    <li> - Flask Rest Framework </li>
+    <li> - Next Framework </li>
+    <li> - JavaScript and TypeScript (intermediate) </li>
     <li> - HTML and CSS (fluent) </li>
-    <li> - JavaScript and jQuery (intermediate) </li>
     <li> - SQLAlchemy (advanced) </li>
 </ul>
 
