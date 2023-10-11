@@ -25,6 +25,37 @@
     <li> - SQLAlchemy (advanced) </li>
 </ul>
 
+Coding knowlege:
+<ul>
+<li>FrameWorks</li>
+  
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<li>Libraries</li>
+
+![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+<li>Languages</li>
+    
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=TypeScript&logoColor=white)
+</ul>
+
+<li>Databases</li>
+
+![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostGres Badge](https://img.shields.io/badge/postgresqlz-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+![Fauna Badge](https://img.shields.io/badge/fauna-turquoise?style=for-the-badge&logo=fauna&logoColor=white)
+
+<br>
+
+
 <br>
 
 <h2 align="left">
