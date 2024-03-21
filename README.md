@@ -8,9 +8,9 @@
 </h2>
 
 - I'm a 19 year old from **Brazil**.
-- **Fourth Semester** undergraduate **Computer Science** student at [Insper](https://insper.edu.br).
+- **Fifth Semester** undergraduate **Computer Science** student at [Insper](https://insper.edu.br).
 - 📫 How to reach me: [email](mailto:pedroas5@al.insper.edu.br) - [LinkedIn](https://www.linkedin.com/in/pedro-antonio-silva-23395b249/)
-- 💻 Full Stack Development using Django, Flask, Spring and Next
+- 💻 Full Stack Development using Django, Flask, Spring Boot and Next.js
 <br>
 
 <h2 align="left">Coding Knowledge:</h2>
@@ -34,11 +34,13 @@
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=TypeScript&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C&logoColor=white)
 
 
 <li>Databases</li>
 
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostGres Badge](https://img.shields.io/badge/postgresqlz-orange?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Fauna Badge](https://img.shields.io/badge/fauna-turquoise?style=for-the-badge&logo=fauna&logoColor=white)
 
