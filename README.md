@@ -16,15 +16,15 @@
   Personal Projects
 </h2>
 
-- [Crawl & search](https://github.com/P-ASilva/crawl-and-search.git). NLP Search Experiment on CNN news.
+- [Crawl & Search](https://github.com/P-ASilva/crawl-and-search.git). NLP Search Experiment on CNN news.
 - [Ames Dataset Analysis](https://github.com/P-ASilva/ames.git). Ames dataset analysis with ML based predictions.
 <br>
 <h2 align="left">
   Projects I worked on
 </h2>
 
-- [Skellys Adventure](https://github.com/EduardoMVAz/project-lantern.git). Game I Showcased at Gamescon LATAM 2024.
-- [Flipay](https://github.com/ArthurEller/Flipay.git). Web Applicatuin I Co-developed with Arthur Eller.
+- [Skelly´s Adventure](https://github.com/EduardoMVAz/project-lantern.git). Game I Showcased at Gamescon LATAM 2024.
+- [Flipay](https://github.com/ArthurEller/Flipay.git). Web Application I Co-developed with Arthur Eller.
 <br>
 <h2 align="left">Coding Knowledge:</h2>
 
