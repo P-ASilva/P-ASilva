@@ -14,7 +14,7 @@
 <br>
 <h2 align=left>
   Personal Projects
-<h2>
+</h2>
 
 - [Web Crawler](https://github.com/P-ASilva/crawl-and-search.git). NLP Search Algorith Experiment on CNN news.
 <br>
