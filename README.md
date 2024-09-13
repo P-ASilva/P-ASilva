@@ -16,7 +16,8 @@
   Personal Projects
 </h2>
 
-- [Web Crawler](https://github.com/P-ASilva/crawl-and-search.git). NLP Search Algorith Experiment on CNN news.
+- [Web Crawler](https://github.com/P-ASilva/crawl-and-search.git). NLP Search Experiment on CNN news.
+- [Data Analysis](https://github.com/P-ASilva/ames.git). Ames dataset analysis with ML based predictions.
 <br>
 <h2 align="left">
   Projects I worked on
