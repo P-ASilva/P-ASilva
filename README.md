@@ -12,7 +12,12 @@
 - 📫 How to reach me: [email](mailto:pedroas5@al.insper.edu.br) - [LinkedIn](https://www.linkedin.com/in/pedro-antonio-silva-23395b249/)
 - 💻 Full Stack Development using Django, Flask, Spring Boot and Next.js
 <br>
+<h2 align=left>
+  Personal Projects
+<h2>
 
+- [Web Crawler and search algorithms](https://github.com/P-ASilva/crawl-and-search.git)
+<br>
 <h2 align="left">
   Projects I worked on
 </h2>
