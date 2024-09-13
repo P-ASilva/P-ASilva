@@ -45,14 +45,3 @@
 ![Fauna Badge](https://img.shields.io/badge/fauna-turquoise?style=for-the-badge&logo=fauna&logoColor=white)
 
 </ul>
-<br>
-<br>
-
-<h2 align="left">
-  My Statistics
-</h2>
-
-<div align="center">
-  <a href="https://github.com/P-ASilva">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=P-ASilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
