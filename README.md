@@ -13,6 +13,13 @@
 - 💻 Full Stack Development using Django, Flask, Spring Boot and Next.js
 <br>
 
+<h2 align="left">
+  Projects I worked on
+</h2>
+
+- [Skellys Adventure](https://github.com/EduardoMVAz/project-lantern.git). Game I Showcased at Gamescon LATAM 2024.
+- [Flipay](https://github.com/ArthurEller/Flipay.git). Web Applicatuin I Co-developed with Arthur Eller.
+<br>
 <h2 align="left">Coding Knowledge:</h2>
 
 <ul>
