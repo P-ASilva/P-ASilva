@@ -7,10 +7,10 @@
   About Me
 </h2>
 
-- I'm a 20 year old from **Brazil**.
-- **Sixth Semester** undergraduate **Computer Science** student at [Insper](https://insper.edu.br).
+- I'm a 22 year old from **Brazil**.
+- **Computer Science** student at [Insper](https://insper.edu.br).
 - 📫 How to reach me: [email](mailto:pedroas5@al.insper.edu.br) - [LinkedIn](https://www.linkedin.com/in/pedro-antonio-silva-23395b249/)
-- 💻 Full Stack Development using Django, Flask, Spring Boot and Next.js
+- 💻 Full Stack Development using Python - Flask, Kotlin - Spring Boot and Typescript - Next.js
 <br>
 <h2 align=left>
   Personal Projects
